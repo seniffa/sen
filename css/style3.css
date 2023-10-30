@@ -1,7 +1,7 @@
 body {
 	background: #cc0019;
 	color: #fceeb8;
-	font-family: 'BioRhyme', serif;
+	font-family: 'RobotoSerif8ptExtraExpanded-Regular', serif;
 }
 
 a {
@@ -97,7 +97,7 @@ a:focus {
 }
 
 .content__number {
-	color: #000;
+	color: green;
 	font-weight: bold;
 	line-height: 0.5;
 	letter-spacing: -0.175em;
